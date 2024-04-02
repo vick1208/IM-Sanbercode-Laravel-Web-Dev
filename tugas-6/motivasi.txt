@@ -1,0 +1,5 @@
+Motivasi saya mengikuti bootcamp laravel adalah
+saya ingin mempelajari kerangka kerja laravel untuk 
+mempersiapkan proyek pribadi saya. Saya berharap bahwa saya
+dapat memahami kerangka kerja ini untuk membuat proyek-proyek 
+selanjutnya. 
